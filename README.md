@@ -31,7 +31,19 @@
 
 **Your exact steps every time you make changes:**
 
-> File → Open Package → Export As → Initials M1 Tune → Put into your GitHub folder in dobby to the moon → Add description and summary → Commit and Push → Update your README
+> File → Open Package → Export As → Name your file using the format below → Put into your GitHub folder in dobby to the moon → Add description and summary → Commit and Push → Update your README
+
+**File naming format:**
+
+> `Initials_V#_M1Tune`
+
+**Examples:**
+
+> `AB_V1_M1Tune`  
+> `AB_V2_M1Tune`  
+> `AB_V3_M1Tune`
+
+Every time you make a new set of changes, increment the version number. Do not overwrite your previous file.
 
 ---
 
@@ -44,7 +56,7 @@
 
 ## M1 Tune Workflow Instructions
 
-When you finish your section of the M1 tune file, go to **File → Export As** and put your initials in the file name.
+When you finish your section of the M1 tune file, go to **File → Export As** and name your file using the format `Initials_V#_M1Tune` (e.g. `AB_V1_M1Tune`).
 
 Once you have pushed, go to your personal folder's README and log everything you changed using the format below.
 
@@ -72,6 +84,9 @@ This is tedious but it ensures you understand what you are doing and allows anyo
 ## Research
 
 This README functions as a collection of reference material and findings related to the M1 Tune project. If you find something useful, add it under the appropriate section below.
+
+> [!IMPORTANT]
+> **If you add a source here, also add it to the [GitHub Wiki](../../wiki) so we have one collective place where everything is stored.** Copy the same link and title into the wiki under the matching section.
 
 > [!NOTE]
 > To add a link, copy this format and paste it under the right section:
