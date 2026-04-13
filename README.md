@@ -1,2 +1,8 @@
 Repository for M1 Tune\
 [Progress Tune](https://docs.google.com/spreadsheets/d/1RPckYIwSD2WF-GWpdYGGkXlY10vhSMqvVTC9QVElQrg/edit?usp=sharing)
+
+1.) Download [Github Desktop](https://desktop.github.com/download/) 
+2.) Go to the repository
+3.) Click the green code button
+4.) Press "Open in Github desktop" 
+5.) Whenever you make changes, push to repo; make sure files stay in your respective folder
