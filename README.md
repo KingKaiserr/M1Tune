@@ -31,7 +31,7 @@
 
 **Your exact steps every time you make changes:**
 
-> File → Open Package → Export As → Name your file using the format below → Put into your GitHub folder in dobby to the moon → Add description and summary → Commit and Push → Update your README
+> File → Open Package → Export As → Name your file using the format below → Put into your GitHub folder in dobby to the moon branch → Add description and summary → Commit and Push → Update your README
 
 **File naming format:**
 
