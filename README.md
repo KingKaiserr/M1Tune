@@ -5,4 +5,5 @@ Repository for M1 Tune\
 2.) Go to the repository on the github website \
 3.) Click the green code button \
 4.) Press "Open in Github desktop" \
-5.) Whenever you make changes, push to repo; make sure files stay in your respective folder
+5.) Clone the respository in desktop app to a directory \
+5.) Whenever you make changes, push to repository; make sure files stay in your respective folder
